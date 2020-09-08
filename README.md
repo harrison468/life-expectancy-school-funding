@@ -7,7 +7,6 @@ The data for average life expectancy was found from the dataset [Health state li
 The data for local authority spending was found from the dataset [LA and school expenditure: 2017 to 2018 financial year](https://www.gov.uk/government/statistics/la-and-school-expenditure-2017-to-2018-financial-year) which looks at how schools and local authorities spent their funding on education, children's services and social care in the financial year 2017 to 2018.
 
 ## Final Result
-
-<img scr="life-expectancy-school-funding/Relationship between local authority spending and average life expectancy in counties and major cities across England, UK.png">
+![](Final-scatter-plot-regression.png)
 
 
